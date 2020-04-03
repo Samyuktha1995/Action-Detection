@@ -13,3 +13,4 @@ To run:
 1. The videos are converted to frames.
 2. The data is stored in a google drive. It is mounted to google colab.
 3. Run VideoClassification_3DCNN.ipynb notebook. 
+4. Dataset: https://drive.google.com/drive/folders/1w8Kkoz2xdy0Fy_Mpa0B44wCwEsz8xKIo?usp=sharing
