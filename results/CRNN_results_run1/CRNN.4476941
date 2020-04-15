@@ -1,0 +1,95 @@
+Load data
+Train test split
+load model
+Using 2 GPUs!
+start training
+0
+Train Epoch: 1 [300/342 (83%)]	Loss: 0.625155, Accu: 93.33%
+
+Test set (115 samples): Average loss: 0.6369, Accuracy: 79.13%
+
+Epoch 1 model saved!
+1
+Train Epoch: 2 [300/342 (83%)]	Loss: 0.547054, Accu: 93.33%
+
+Test set (115 samples): Average loss: 0.5312, Accuracy: 93.04%
+
+Epoch 2 model saved!
+2
+Train Epoch: 3 [300/342 (83%)]	Loss: 0.450873, Accu: 96.67%
+
+Test set (115 samples): Average loss: 0.4623, Accuracy: 93.04%
+
+Epoch 3 model saved!
+3
+Train Epoch: 4 [300/342 (83%)]	Loss: 0.399748, Accu: 93.33%
+
+Test set (115 samples): Average loss: 0.3899, Accuracy: 93.04%
+
+Epoch 4 model saved!
+4
+Train Epoch: 5 [300/342 (83%)]	Loss: 0.296862, Accu: 96.67%
+
+Test set (115 samples): Average loss: 0.3332, Accuracy: 93.04%
+
+Epoch 5 model saved!
+5
+Train Epoch: 6 [300/342 (83%)]	Loss: 0.299306, Accu: 93.33%
+
+Test set (115 samples): Average loss: 0.3004, Accuracy: 92.17%
+
+Epoch 6 model saved!
+6
+Train Epoch: 7 [300/342 (83%)]	Loss: 0.215063, Accu: 96.67%
+
+Test set (115 samples): Average loss: 0.2656, Accuracy: 93.04%
+
+Epoch 7 model saved!
+7
+Train Epoch: 8 [300/342 (83%)]	Loss: 0.300591, Accu: 90.00%
+
+Test set (115 samples): Average loss: 0.2440, Accuracy: 93.04%
+
+Epoch 8 model saved!
+8
+Train Epoch: 9 [300/342 (83%)]	Loss: 0.100528, Accu: 100.00%
+
+Test set (115 samples): Average loss: 0.2338, Accuracy: 93.04%
+
+Epoch 9 model saved!
+9
+Train Epoch: 10 [300/342 (83%)]	Loss: 0.109544, Accu: 100.00%
+
+Test set (115 samples): Average loss: 0.2462, Accuracy: 91.30%
+
+Epoch 10 model saved!
+10
+Train Epoch: 11 [300/342 (83%)]	Loss: 0.065121, Accu: 100.00%
+
+Test set (115 samples): Average loss: 0.2329, Accuracy: 93.04%
+
+Epoch 11 model saved!
+11
+Train Epoch: 12 [300/342 (83%)]	Loss: 0.064588, Accu: 100.00%
+
+Test set (115 samples): Average loss: 0.2437, Accuracy: 92.17%
+
+Epoch 12 model saved!
+12
+Train Epoch: 13 [300/342 (83%)]	Loss: 0.100907, Accu: 96.67%
+
+Test set (115 samples): Average loss: 0.2312, Accuracy: 93.04%
+
+Epoch 13 model saved!
+13
+Train Epoch: 14 [300/342 (83%)]	Loss: 0.041398, Accu: 100.00%
+
+Test set (115 samples): Average loss: 0.2338, Accuracy: 93.04%
+
+Epoch 14 model saved!
+14
+Train Epoch: 15 [300/342 (83%)]	Loss: 0.036094, Accu: 100.00%
+
+Test set (115 samples): Average loss: 0.1956, Accuracy: 93.91%
+
+Epoch 15 model saved!
