@@ -1,0 +1,91 @@
+start training
+epoch =  0
+Train Epoch: 1 [300/342 (83%)]	Loss: 1.722825, Accu: 73.33%
+
+Test set (115 samples): Average loss: 0.5870, Accuracy: 92.17%
+
+Epoch 1 model saved!
+epoch =  1
+Train Epoch: 2 [300/342 (83%)]	Loss: 0.000018, Accu: 100.00%
+
+Test set (115 samples): Average loss: 1.1313, Accuracy: 88.70%
+
+Epoch 2 model saved!
+epoch =  2
+Train Epoch: 3 [300/342 (83%)]	Loss: 0.146121, Accu: 96.67%
+
+Test set (115 samples): Average loss: 1.0394, Accuracy: 93.04%
+
+Epoch 3 model saved!
+epoch =  3
+Train Epoch: 4 [300/342 (83%)]	Loss: 0.001054, Accu: 100.00%
+
+Test set (115 samples): Average loss: 1.2175, Accuracy: 93.04%
+
+Epoch 4 model saved!
+epoch =  4
+Train Epoch: 5 [300/342 (83%)]	Loss: 0.000000, Accu: 100.00%
+
+Test set (115 samples): Average loss: 1.5927, Accuracy: 93.04%
+
+Epoch 5 model saved!
+epoch =  5
+Train Epoch: 6 [300/342 (83%)]	Loss: 0.000462, Accu: 100.00%
+
+Test set (115 samples): Average loss: 1.0628, Accuracy: 93.04%
+
+Epoch 6 model saved!
+epoch =  6
+Train Epoch: 7 [300/342 (83%)]	Loss: 0.000274, Accu: 100.00%
+
+Test set (115 samples): Average loss: 1.0544, Accuracy: 93.04%
+
+Epoch 7 model saved!
+epoch =  7
+Train Epoch: 8 [300/342 (83%)]	Loss: 0.000000, Accu: 100.00%
+
+Test set (115 samples): Average loss: 1.2354, Accuracy: 93.04%
+
+Epoch 8 model saved!
+epoch =  8
+Train Epoch: 9 [300/342 (83%)]	Loss: 0.000000, Accu: 100.00%
+
+Test set (115 samples): Average loss: 1.4924, Accuracy: 93.04%
+
+Epoch 9 model saved!
+epoch =  9
+Train Epoch: 10 [300/342 (83%)]	Loss: 0.000001, Accu: 100.00%
+
+Test set (115 samples): Average loss: 1.1171, Accuracy: 93.04%
+
+Epoch 10 model saved!
+epoch =  10
+Train Epoch: 11 [300/342 (83%)]	Loss: 0.000000, Accu: 100.00%
+
+Test set (115 samples): Average loss: 2.6291, Accuracy: 93.04%
+
+Epoch 11 model saved!
+epoch =  11
+Train Epoch: 12 [300/342 (83%)]	Loss: 0.000000, Accu: 100.00%
+
+Test set (115 samples): Average loss: 0.8285, Accuracy: 88.70%
+
+Epoch 12 model saved!
+epoch =  12
+Train Epoch: 13 [300/342 (83%)]	Loss: 0.000000, Accu: 100.00%
+
+Test set (115 samples): Average loss: 3.2288, Accuracy: 92.17%
+
+Epoch 13 model saved!
+epoch =  13
+Train Epoch: 14 [300/342 (83%)]	Loss: 0.000000, Accu: 100.00%
+
+Test set (115 samples): Average loss: 1.1626, Accuracy: 90.43%
+
+Epoch 14 model saved!
+epoch =  14
+Train Epoch: 15 [300/342 (83%)]	Loss: 0.000000, Accu: 100.00%
+
+Test set (115 samples): Average loss: 2.4246, Accuracy: 92.17%
+
+Epoch 15 model saved!
